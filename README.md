@@ -17,5 +17,4 @@ Sau khi cài xong thì thử vượt xLink và trải nghiệm!
 Lưu ý: Gặp lỗi thì comment vào github để fix. Vui lòng ghi Credit nếu có sử dụng code!
 
 
-Mua code 20k
-https://discord.gg/6Rzx2FgT
+### Source code 
