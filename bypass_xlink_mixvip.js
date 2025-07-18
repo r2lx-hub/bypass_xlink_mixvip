@@ -52,6 +52,7 @@
       "remdangkhoa-phongtho.png": "aB3dE9jK2p",
       "naphoga-thanhan.png": "0946402868",
       "dayluoithep-luoi-thep.png": "301155522",
+      "duhocbluesea.edu.vn.png":"H57PRH",
       "vinaproxy.png": "THANKYOU",
     };
   
